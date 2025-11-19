@@ -90,8 +90,3 @@ You can extend this project by adding: - User login system\
 **Sabyasachi Jena**\
 Library Management System in C -- Simple, Clean & Functional.
 
-
-
-![image alt](https://github.com/sabyasachijena2007-design/LIBRARY-MANAGEMENT-SYSYTEM/blob/416215e034d51163a2ca779dc7d2e310e21c8c27/output%201.png)
-
-![image alt].(https://github.com/sabyasachijena2007-design/LIBRARY-MANAGEMENT-SYSYTEM/blob/5b68be35e2e18964a4d7cbee272e402a3f6bff59/2.png)
