@@ -6,7 +6,7 @@ displaying, searching, deleting, and updating books.\
 The system uses **binary file handling** (`library.dat`) to store and
 manage book records.
 
-## 🚀 Features
+##  Features
 
 ### ✔ Add Book
 
@@ -65,7 +65,7 @@ persistence even after the program exits.
 
     ./library
 
-## 📌 Sample Menu
+##  Sample Menu
 
     ===== Library Management System =====
     1. Add Book
@@ -89,3 +89,7 @@ You can extend this project by adding: - User login system\
 
 **Sabyasachi Jena**\
 Library Management System in C -- Simple, Clean & Functional.
+
+
+
+![image alt](https://github.com/sabyasachijena2007-design/LIBRARY-MANAGEMENT-SYSYTEM/blob/416215e034d51163a2ca779dc7d2e310e21c8c27/output%201.png)
