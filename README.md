@@ -93,3 +93,11 @@ Library Management System in C -- Simple, Clean & Functional.
 
 ![image alt](https://github.com/sabyasachijena2007-design/LIBRARY-MANAGEMENT-SYSYTEM/blob/523290fd5a48078c4855195842cb270480633028/c%20output.jpg)
 
+
+📧 Contact
+Personal Mail: - sabyasachi.jena2007@gmail.com
+Business Mail - sabyasachi.jena2007@gmail.com
+College Mail - 250301120320@centurionuniv.edu.in
+🧾 License
+This project is comppletely open-source .
+
